@@ -1,2 +1,2 @@
 # JS-Advance
-Learning nadvanced js methods/concepts
+Learning advanced js methods/concepts
