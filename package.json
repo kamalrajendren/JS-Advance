@@ -1,0 +1,19 @@
+{
+  "name": "js-advance",
+  "version": "1.0.0",
+  "description": "js advance concepts learning",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalrajendren/JS-Advance.git"
+  },
+  "author": "kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalrajendren/JS-Advance/issues"
+  },
+  "homepage": "https://github.com/kamalrajendren/JS-Advance#readme"
+}
