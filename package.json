@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamalrajendren/JS-Advance/issues"
   },
-  "homepage": "https://github.com/kamalrajendren/JS-Advance#readme"
+  "homepage": "https://github.com/kamalrajendren/JS-Advance#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
